@@ -9,7 +9,7 @@
   "author": "urFate",
   "license": "MIT",
   "dependencies": {
-    "mineflayer": "^3.14.1",
+    "mineflayer": "^4.8.1",
     "mineflayer-pathfinder": "^1.9.1"
   }
 }
